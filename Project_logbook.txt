@@ -3,3 +3,6 @@ Project: Generative AI Tools - Boon or Bane
 Lead: Sean
 Log entries:
 - Initialized repository and directory structures.
+- [Quantitative] Cleaned and processed 150 student survey responses from /data/raw/survey_responses.csv.
+- [Quantitative] Generated descriptive statistics: 78% of students reported using GenAI tools weekly for coding and writing assistance.
+- [Quantitative] Plotted tool usage distribution bar charts and saved figures to /results/figures/usage_frequency.png.
