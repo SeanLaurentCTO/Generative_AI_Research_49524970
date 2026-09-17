@@ -6,3 +6,6 @@ Log entries:
 - [Quantitative] Cleaned and processed 150 student survey responses from /data/raw/survey_responses.csv.
 - [Quantitative] Generated descriptive statistics: 78% of students reported using GenAI tools weekly for coding and writing assistance.
 - [Quantitative] Plotted tool usage distribution bar charts and saved figures to /results/figures/usage_frequency.png.
+- [Qualitative] Transcribed 8 semi-structured interview recordings and anonymized participant identifiers.
+- [Qualitative] Completed thematic coding under 6 key codes (e.g., Usability Issues, Learning Effectiveness, AI Interaction).
+- [Qualitative] Identified the core theme "Pedagogical Impact": students value rapid concept clarification but worry about over-reliance and hallucinated code.
