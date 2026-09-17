@@ -3,3 +3,6 @@ Project: Generative AI Tools - Boon or Bane
 Lead: Sean
 Log entries:
 - Initialized repository and directory structures.
+- [Qualitative] Transcribed 8 semi-structured interview recordings and anonymized participant identifiers.
+- [Qualitative] Completed thematic coding under 6 key codes (e.g., Usability Issues, Learning Effectiveness, AI Interaction).
+- [Qualitative] Identified the core theme "Pedagogical Impact": students value rapid concept clarification but worry about over-reliance and hallucinated code.
