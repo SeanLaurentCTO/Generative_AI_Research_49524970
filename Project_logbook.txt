@@ -1,0 +1,5 @@
+# Project Research Logbook
+Project: Generative AI Tools - Boon or Bane
+Lead: Sean
+Log entries:
+- Initialized repository and directory structures.
