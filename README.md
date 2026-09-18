@@ -18,3 +18,5 @@ Files use lowercase `snake_case`. Interview transcripts use anonymous participan
 ## Contact
 
 Maintained by @yingcun.zhang
+
+Repository grading and assessment coordinator and contact: @Yidi58
